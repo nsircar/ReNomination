@@ -5,7 +5,7 @@ Renomination Rates -- 2009 to 2014 Lok Sabha
 	•	Description: More than ‘representativeness’, political parties select candidates for their ‘winning ability’
 	•	Author: Neelanjan Sircar
 	•	Date: 26 March, 2018
-	•	URL: https://www.hindustantimes.com/opinion/how-political-parties-choose-their-candidates-to-win-elections/story-26nqJKdMEQfYm8Uq29tbwJ.html
+	•	URL: [link to piece](https://www.hindustantimes.com/opinion/how-political-parties-choose-their-candidates-to-win-elections/story-26nqJKdMEQfYm8Uq29tbwJ.html)
 
 Included in this package:
 
